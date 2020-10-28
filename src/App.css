@@ -6,6 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
+h1{
+font-family: 'Syne Mono', monospace;
+font-size:72px;
+color:#0ccac4;
+
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
